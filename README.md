@@ -1,1 +1,2 @@
 # taotic
+TAOTIC is a not-for-profit social enterprise serving as a pre-incubation ecosystem enabler for aspiring social-tech startup founders, especially college and university students and recent graduates in Africa. TAOTIC has been founded to accelerate career transition, systematize venture building and bridge the pre-seed startup funding gaps as a way to stage up and de-risk startup ventures and shorten the time to exit for early-stage impact investors.
